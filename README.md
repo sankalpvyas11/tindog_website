@@ -3,9 +3,9 @@
 This is a website which I made using the following:-
 
 HTML 
-CSS 
-JavaScript
-Bootstrap
+,CSS 
+,JavaScript
+,Bootstrap
 
 I also used some Font-Awesome Icons too!
 
